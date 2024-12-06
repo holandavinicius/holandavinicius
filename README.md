@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 - 🏫 I’m a Software Engineering student at Politécnico de Leiria, Portugal, passionate about building innovative solutions.<br>
 - 👨🏻‍💻 Currently working as a Software Developer, focusing on web development and cloud-based technologies<br>
 - 👯 I’m looking to collaborate on open-source projects, especially in backend development and full-stack applications.<br>
